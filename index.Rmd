@@ -1,0 +1,25 @@
+---
+title: "My awesome hello world websit"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This is Jason's awesome website
+
+click [here](about.html) to know more about me
+
+![this is awesome](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+##<img src="http://giphygifs.s3.amazonaws.com/media/ovt5W1f1EuYyA/giphy.gif" style="width:75%">
+
+##<img src="http://giphygifs.s3.amazonaws.com/media/bTvCkBTQDIPyE/giphy.gif" style="width:75%">
+
+# lte's add soe links
+
+
+I ofter use [google](https://www.google.com) to do data science
+
+my photh
